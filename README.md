@@ -1,0 +1,2 @@
+# kickstarter
+zadanie no toori
